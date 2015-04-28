@@ -1,7 +1,0 @@
-C:\Users\Michael\Source\Repos\Enigma\Enigma\obj\Debug\Enigma.DOMAIN.csprojResolveAssemblyReference.cache
-C:\Users\Michael\Source\Repos\Enigma\Enigma\bin\Debug\Enigma.dll
-C:\Users\Michael\Source\Repos\Enigma\Enigma\bin\Debug\Enigma.pdb
-C:\Users\Michael\Source\Repos\Enigma\Enigma\bin\Debug\Enigma.INTERFACES.dll
-C:\Users\Michael\Source\Repos\Enigma\Enigma\bin\Debug\Enigma.INTERFACES.pdb
-C:\Users\Michael\Source\Repos\Enigma\Enigma\obj\Debug\Enigma.dll
-C:\Users\Michael\Source\Repos\Enigma\Enigma\obj\Debug\Enigma.pdb
