@@ -1,0 +1,10 @@
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.HARNESS.exe.config
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.HARNESS.exe
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.HARNESS.pdb
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.dll
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.INTERFACES.dll
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.INTERFACES.pdb
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\bin\Debug\Enigma.pdb
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\obj\Debug\Enigma.HARNESS.exe
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\obj\Debug\Enigma.HARNESS.pdb
+C:\Users\Michael\Source\Repos\Enigma\Enigma.HARNESS\obj\Debug\Enigma.HARNESS.csprojResolveAssemblyReference.cache

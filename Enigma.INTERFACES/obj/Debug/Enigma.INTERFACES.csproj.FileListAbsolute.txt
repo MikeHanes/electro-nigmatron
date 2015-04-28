@@ -1,0 +1,4 @@
+C:\Users\Michael\Source\Repos\Enigma\Enigma.INTERFACES\bin\Debug\Enigma.INTERFACES.dll
+C:\Users\Michael\Source\Repos\Enigma\Enigma.INTERFACES\bin\Debug\Enigma.INTERFACES.pdb
+C:\Users\Michael\Source\Repos\Enigma\Enigma.INTERFACES\obj\Debug\Enigma.INTERFACES.dll
+C:\Users\Michael\Source\Repos\Enigma\Enigma.INTERFACES\obj\Debug\Enigma.INTERFACES.pdb
